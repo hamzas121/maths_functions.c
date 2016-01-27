@@ -14,6 +14,10 @@ float division(int x, int y) {
 	return x/y;
 }
 
+int remainder(int x, int y){
+	return x%y;
+}
+
 int main() {
 	int x=2, y=3;
 	printf("%i\n\n", addition(x,y));

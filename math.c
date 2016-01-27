@@ -10,7 +10,7 @@ int subtraction(int x, int y) {
 int multiplication(int x, int y) {
 	return x*y;
 }
-float division(int x, int y) {
+float dvision(int x, int y) {
 	return x/y;
 }
 

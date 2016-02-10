@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-//This is the line causing issue in the master branch
-=======
+
 //This is the second line causing issue in the <*master/conflict> branch
->>>>>>> conflict
+
 #include <stdio.h>
 
 int addition(int x, int y) {
